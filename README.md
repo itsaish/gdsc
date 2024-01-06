@@ -1,3 +1,3 @@
-# gdsc
-demo project for class
-###THIS IS  AISHWARYA
+# GDSC
+Demo project for class
+THIS IS  AISHWARYA
